@@ -1,0 +1,28 @@
+.content-slide5{
+    margin-top: 100px;
+}
+
+.right-slide5 img{
+    width: 100%;
+}
+
+.left-slide5 {
+    background-color: rgb(255, 132, 0);
+    padding: 91px;
+    height: 90%;
+}
+
+.left-slide5 h1 {
+    width: 420px;
+}
+
+.left-slide5 button {
+    border-radius: 20px;
+    color: black;
+}
+
+@media only screen and (max-width: 600px){
+    .left-slide5 h1 {
+        width: 300px;
+    }
+}

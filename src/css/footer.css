@@ -1,0 +1,85 @@
+.footer-slide{
+    background-color: #063255;
+    color: white ;
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+
+.side-footer h5::before{
+    content: "{";
+    font-size: 27px;
+}
+
+.side-footer h5{
+    margin-bottom: 50px;
+    margin-top: -10px;
+}
+
+.side-footer i{
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.side-footer i:hover{
+    color: orange;
+}
+
+.connect-foot a{
+    text-decoration: none;
+    color: white;
+}
+
+.connect-foot a:hover{
+    color: orange;
+}
+
+.text-left a{
+    text-decoration: none;
+    color: white;
+}
+
+.text-left a:hover{
+    color: orange;
+}
+
+.join-foot input{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    font-size: 15px;
+    padding: 15px;
+    width: 300px;
+    border-radius: 40px;
+}
+
+.join-foot button{
+    color: white;
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.join-foot button:hover{
+    color: black;
+    background-color: white;
+}
+
+.content-row ul{
+    list-style-type: none;
+}
+
+.content-row ul li{
+    margin: 0 0 10px 0px;
+}
+
+.feddback{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.feddback a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}

@@ -1,0 +1,58 @@
+.content-slide4{
+    background-color: #e6f3f4;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.btn1{
+    color: orange;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+.btn2{
+    color: rgb(149, 149, 241);
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+}
+.btn3{
+    color: rgb(149, 149, 241);
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+}
+
+.badge img{
+    width: 160px;
+    margin-top: 46px;
+    margin-left: -50px;
+}
+
+.side-right-slide4 img{
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.side-left-slide4 a{
+    margin-top: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    color: orange;
+}
+
+.side-left-slide4 a:hover{
+    color: grey;
+}
+
+@media only screen and (max-width : 600px){
+    .side-right-slide4 img{
+        width: 400px;
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+}

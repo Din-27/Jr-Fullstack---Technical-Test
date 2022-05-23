@@ -1,0 +1,46 @@
+.slide2{
+    background-color: #e6f3f4;
+    height: 100%;
+}
+
+.slide2-content-2{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.title-slide2 p{
+    font-size: 30px;
+    font-weight: 700;
+}
+.p2-slide2 p{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.img-content-slide2 img.imgc1{
+    width: 60px;
+    padding: 10px;
+}
+
+.img-content-slide2 img.imgc2{
+    width: 60px;
+}
+
+.img-content-slide2 img.imgc3{
+    width: 60px;
+}
+
+.img-content-slide2 h5{
+    margin-top: 10px;
+}
+
+.img-content-slide2 p{
+    margin-top: 20px;
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+}

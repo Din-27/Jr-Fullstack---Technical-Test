@@ -1,0 +1,34 @@
+a.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+}
+a.navbar-brand::before{
+    content: "{";
+    font-size: 30px;
+}
+
+a.nav-link{
+    color: black;
+    font-weight: 700;
+    margin-left: 10px;
+}
+
+li.nav-item a.nav-link:hover{
+    color: orange;
+}
+
+.end-nav{
+    margin-left: 340px;
+}
+
+.btn-nav{
+    color: orange;
+    background-color: rgb(255, 228, 177);
+    border-radius: 20px;
+}
+
+@media only screen and (max-width: 600px){
+    .end-nav{
+        margin-left: 0px;
+    }
+}

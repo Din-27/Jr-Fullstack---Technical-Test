@@ -1,0 +1,35 @@
+.slide3{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.side-left h1{
+    font-weight: bold;
+}
+
+.side-left p{
+    font-weight: 500;
+}
+
+.side-right img{
+    width: 550px;
+    margin-left: 40px;
+}
+
+.content-row h1{
+    font-weight: bold;
+    color: orange;
+}
+.content-row h5{
+    font-weight: bold;
+}
+.content-row p{
+    font-weight: 400;
+}
+
+@media only screen and (max-width: 600px){
+    .side-right img{
+        width: 550px;
+        margin-left: 20px;
+    }
+}
